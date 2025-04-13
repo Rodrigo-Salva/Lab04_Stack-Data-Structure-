@@ -11,7 +11,6 @@
 | Student Name       | Exercise                                             |
 |--------------------|------------------------------------------------------|
 | Josue Zapata       | 2.1 Fixed Array Implementation                       |
-| Gabriel Araujo     | 2.2 Dynamic Array Implementation                     |
 | Yamile Ochoa Marin | 2.3 Linked List Implementation + Balanced Parentheses + Browser History |
 | Rodrigo Salva      | 3.2 Postfix Expression Evaluation + History Feature |
 | Yair Araujo        | 2.2 Infix Expression Evaluation + HTML Tag Checker  |
