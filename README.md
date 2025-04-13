@@ -123,5 +123,5 @@ Each student developed a different exercise with the following structure:
 
 ## 🔗 Repository
 
-📁 GitHub Repo: [Rodrigo-Salva/Lab04_Stack-Data-Structure](https://github.com/Rodrigo-Salva/Lab04_Stack-Data-Structure)
+📁 GitHub Repo: [Rodrigo-Salva/Lab04_Stack-Data-Structure](https://github.com/Rodrigo-Salva/Lab04_Stack-Data-Structure-)
 
